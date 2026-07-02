@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">hello friend hello friend that's lame </>></h2>
+<h2 data-importer="text" align="left">hello friend hello friend that's lame </h2>
 
 ###
 
