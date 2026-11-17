@@ -1,80 +1,73 @@
-<h2 data-importer="text" align="left">hello friend hello friend that's lame </h2>
+<h1 align="center">Hi, I'm Maxmudbek Jumaniyazov 👋</h1>
 
-###
+<p align="center">
+  <b>Full-stack developer from Khiva, Uzbekistan</b><br>
+  I build multilingual websites for tourism and hospitality, business management systems, and Telegram bots.
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+<p align="center">
+  <a href="https://www.makhmudbek.uz"><img src="https://img.shields.io/badge/Website-makhmudbek.uz-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/maxmudbek-jumaniyazov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/Mrclaudecode"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:miraclecampchat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.youtube.com/@MrClaudecode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/mrjumaniyazov/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <a href="https://www.youtube.com/@MrClaudecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/mrjumaniyazov/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="miraclecampchat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/maxmudbek-jumaniyazov/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/Mrclaudecode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
+### 🛠 Tech stack
 
-###
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,astro,tailwind,nodejs,express,nestjs,fastapi&perline=11" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,redis,docker,nginx,linux,git,githubactions,vercel&perline=11" alt="Databases and tools">
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Mr-uzbek&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Mr-uzbek/Mr-uzbek/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🚀 Featured projects
 
-###
+| Project | What it is | Stack |
+|---|---|---|
+| **[Khiva Guide](https://khivaguide.uz)** | Travel guide for Khiva & Khorezm in 5 languages | Astro, Tailwind CSS, Node.js |
+| **Islambek Khiva** | Hotel and tour agency sites in one monorepo, with a CMS for staff | Next.js 15, Payload CMS 3, Turborepo |
+| **[islambek-khiva.uz](https://islambek-khiva.uz)** | Fast, SEO-friendly trilingual hotel website | Python, Jinja2, Nginx, GitHub Actions |
+| **Yukla Bot** | Telegram bot that downloads media from 15+ platforms, with a job queue and caching | TypeScript, grammY, BullMQ, Redis, PostgreSQL |
+| **LifeOS** | Personal productivity app: calendar, goals, routines, finance, notes | Next.js 15, Prisma, PostgreSQL |
+| **Savdo Boshqaruv** | Retail store management SaaS with admin panel and Telegram integration | React, Express, PostgreSQL |
+| **University KPI System** | KPI tracking and management for university staff | React, TypeScript, shadcn/ui, TanStack Query |
+| **[Modern CMS](https://github.com/Mr-uzbek/Modern_CMS_Python)** | Content management system with JWT auth, comments and media | Python, FastAPI, Docker |
 
-<br clear="both">
+<sub>Most of these are client projects, so their source code is private.</sub>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Mr-uzbek/Mr-uzbek/snake-output/snake.svg" alt="Snake animation" />
+<details>
+<summary><b>🇺🇿 O'zbekcha</b></summary>
 
-###
+<br>
+
+Salom! Men Maxmudbek Jumaniyazov, Xivadan full-stack dasturchiman.
+
+Turizm va mehmonxonalar uchun ko'p tilli saytlar, biznesni boshqarish tizimlari va Telegram botlar yarataman. Asosan TypeScript, Next.js, Node.js va Python bilan ishlayman.
+
+**Asosiy loyihalar:**
+- **[Khiva Guide](https://khivaguide.uz)**: Xiva va Xorazm bo'yicha 5 tilli sayohat qo'llanmasi
+- **Islambek Khiva**: mehmonxona va turagentlik saytlari, xodimlar uchun CMS bilan
+- **Yukla Bot**: 15 dan ortiq platformadan video va audio yuklab beradigan Telegram bot
+- **LifeOS**: shaxsiy samaradorlik ilovasi
+- **Savdo Boshqaruv**: do'konlar uchun savdo va ombor boshqaruv tizimi
+- **Universitet KPI tizimi**: universitet xodimlarining KPI ko'rsatkichlarini boshqarish
+
+Hamkorlik uchun [Telegram](https://t.me/Mrclaudecode) yoki [email](mailto:miraclecampchat@gmail.com) orqali yozing.
+
+</details>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mr-uzbek&locale=en&mode=daily&theme=dracula&border_radius=5" height="150" alt="GitHub streak">
+  <img src="https://raw.githubusercontent.com/Mr-uzbek/Mr-uzbek/languages-output/languages.svg" height="150" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mr-uzbek/Mr-uzbek/snake-output/snake.svg" alt="Contribution snake">
+</p>
